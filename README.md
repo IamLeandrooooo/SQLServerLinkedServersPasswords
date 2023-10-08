@@ -4,6 +4,7 @@ A Powershell Script that automates all the needed configurations in order to get
 
 # **Disclaimer: Legal Use Only**
 
+
 This script is provided solely for legal purposes. Any use of this script for illegal activities or in violation of applicable laws is strictly prohibited.
 
 I take no responsibility if:
